@@ -1,20 +1,5 @@
 # Trabalho Prático 4 — TSP com Heurísticas de Inserção
 
-**Disciplina:** Resolução de Problemas com Grafos  
-**Orientador:** Prof. Me Ricardo Carubbi  
-**Grupo:**
-- Anselmo Teixeira — 2410414
-- João Marcelo Jucá — 2410392
-- Thigo Victor Ferreira — 2410413
-
----
-
-## Vídeo explicativo
-
-> Link: https://drive.google.com/drive/folders/1X-2fCQtKK5lolAI7Yfa3urI0YYIPn9Zx?usp=sharing
-
----
-
 ## Descrição
 
 Implementação em **Python** de duas heurísticas de construção de circuito para o **Traveling Salesman Problem (TSP)**:
