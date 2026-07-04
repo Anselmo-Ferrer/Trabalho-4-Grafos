@@ -7,7 +7,7 @@ Implementação em **Python** de duas heurísticas de construção de circuito p
 1. **Nearest Insertion** — insere cidades priorizando a proximidade ao circuito atual;
 2. **Smallest Insertion** — insere cidades priorizando o menor aumento no comprimento do circuito.
 
----
+----
 
 ## Heurísticas implementadas
 
